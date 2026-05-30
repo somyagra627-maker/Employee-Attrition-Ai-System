@@ -25,3 +25,18 @@ This project uses Machine Learning to predict employee attrition risk and provid
 ---
 
 ## 📁 Project Structure
+Project/
+│── dataset.csv
+│── main.py
+│── model.py
+│── app.py
+│── outputs/
+
+
+---
+
+## 🚀 How to Run
+
+```bash
+python main.py
+python -m streamlit run app.py
